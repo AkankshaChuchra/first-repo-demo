@@ -1,0 +1,4 @@
+Hi there, 
+I am learning git for the first time and this is my sample file.
+I ma going to make the changes and then the status should be untracked for thgis file.
+Once I add this then it becomes staged and after commit, unchanged. Let's see how it goes. 
